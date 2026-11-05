@@ -1,6 +1,6 @@
 // Предпътен преглед — service worker
 // При промяна на приложението увеличете VERSION, за да се обнови кешът.
-const VERSION = 'v1';
+const VERSION = 'v2';
 const CACHE = 'predpaten-pregled-' + VERSION;
 const FILES = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png', './icon-maskable-512.png', './apple-touch-icon.png'];
 
